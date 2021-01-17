@@ -1,0 +1,11 @@
+<resources>
+
+
+    <string name="google_maps_API_key">AIzaSyB9PV9QbUgcqMHhIMUUZw-woVi6ZfRswWc</string>
+    <string name="app_name">Bledi</string>
+    <string name="imageView">ImageView</string>
+    <string name="btnCamera">open camera</string>
+    <string name="button">envoyer</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ajouter_une_description">ajouter une description</string>
+</resources>
